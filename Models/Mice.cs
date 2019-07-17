@@ -1,7 +1,7 @@
 using System;
 namespace DiggersNFlies
 {
-    public class Mice
+    public class Mice : Iwalking
     {
           public void Walk ()
         {

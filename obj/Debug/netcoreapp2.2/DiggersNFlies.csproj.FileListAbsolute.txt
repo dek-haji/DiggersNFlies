@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/bin/Debug/netcoreapp2.2/DiggersNFlies.deps.json
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/bin/Debug/netcoreapp2.2/DiggersNFlies.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/bin/Debug/netcoreapp2.2/DiggersNFlies.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/bin/Debug/netcoreapp2.2/DiggersNFlies.dll
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/bin/Debug/netcoreapp2.2/DiggersNFlies.pdb
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.dll
+/Users/dekhaji/workspace/csharp/exercises/DiggersNFlies/obj/Debug/netcoreapp2.2/DiggersNFlies.pdb
